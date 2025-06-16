@@ -3,7 +3,7 @@ import time
 import pandas as pd
 from multiprocessing import Pool, cpu_count
 
-API_KEY = "AIzaSyCgtdzp165f4fSBTyqgyVFthJ8cXT7QSxY"
+API_KEY = ""
 gmaps = googlemaps.Client(key=API_KEY)
 
 CIUDAD = "recoleta, Santiago de Chile"

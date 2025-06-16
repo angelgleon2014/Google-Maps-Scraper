@@ -2,7 +2,7 @@ import googlemaps
 import time
 import pandas as pd
 
-API_KEY = "AIzaSyCgtdzp165f4fSBTyqgyVFthJ8cXT7QSxY"
+API_KEY = ""
 gmaps = googlemaps.Client(key=API_KEY)
 
 CIUDAD = "Independencia, Santiago de Chile"

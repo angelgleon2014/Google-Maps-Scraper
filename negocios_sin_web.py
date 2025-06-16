@@ -4,7 +4,7 @@ import os
 import time
 from pathlib import Path
 
-API_KEY = "AIzaSyCgtdzp165f4fSBTyqgyVFthJ8cXT7QSxY"
+API_KEY = ""
 """ TIPOS_NEGOCIOS = [
     "Restaurantes", "Cafeterías", "Panaderías", "Bares", "Heladerías", "Abarrotes", "Supermercados",
     "Carnicerías", "Verdulerías", "Botillerías", "Food", "Suplementos", "Delivery", "Ropa", "Zapaterías",

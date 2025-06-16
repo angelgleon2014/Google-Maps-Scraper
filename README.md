@@ -21,3 +21,16 @@ Script de scraping automatizado para extraer información de negocios desde Goog
 - API de Google Maps (opcional)
 
 ## 📂 Estructura
+
+
+## 🚀 Uso
+bash
+python maps_scraper.py
+
+## Ejemplo de salida
+Nombre, Dirección, Teléfono, Latitud, Longitud
+Panadería Don Juan, Av. Matta 1234, 922334455, -33.45, -70.66
+
+## Caso de uso
+Lead generation para marketing local
+Creación automática de páginas web para negocios sin sitio
